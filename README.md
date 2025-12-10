@@ -1,9 +1,11 @@
   🩺 ParmaPro Website (MERN Stack)
   
 Thrilled to share the successful launch of ParmaPro, a full‑stack web application developed end‑to‑end with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+
   🚀 Project Overview
   
-ParmaPro is designed to deliver a scalable, responsive, and user‑friendly platform that merges front‑end creativity with robust backend engineering. It demonstrates modern web development practices and clean architecture principles.
+ParmaPro is designed to deliver a scalable, responsive, and user‑friendly platform that merges front‑end creativity with robust backend engineering.
+It demonstrates modern web development practices and clean architecture principles.
 
 ✨ Features
 
