@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+.env.local
+
+# Server
+server/uploads/*
+
+# Build
+client/dist/
+client/.vite/
