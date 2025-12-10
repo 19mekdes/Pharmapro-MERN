@@ -46,5 +46,4 @@ This project challenged me to combine front‑end creativity with backend logic,
 - Database modeling
 - Responsive design & UX
 
-👉 You can also add sections like Screenshots, Demo Link, or Future Improvements if you want to showcase visuals or roadmap ideas.
-Would you like me to also create a shorter, minimal README version (just overview + setup) for quick GitHub browsing, alongside this detailed one?
+
